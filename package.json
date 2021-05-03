@@ -5,7 +5,8 @@
   "main": "src/server.js",
   "scripts": {
     "dev": "nodemon .",
-    "init-db": "node src/db/init.js"
+    "init-db": "node src/db/init.js",
+    "start": "npm-run-all dev init-db"
   },
   "keywords": [],
   "author": "",
@@ -17,7 +18,7 @@
     "sqlite3": "^5.0.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "npm-run-all": "^4.1.5"
   }
 }
-
