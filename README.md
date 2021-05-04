@@ -1,3 +1,8 @@
+## Projeto desenvolvido durante a Maratona Discovery 02 💛
+
+### Click: https://maratonadiscovery02.dtilarodrigues.repl.co/
+
+
 <h1 align="center">
   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
 </h1>
